@@ -76,7 +76,7 @@ knitr::include_graphics("proofs.png")
 
 --
 
-.center[**Retention and progression issue for some, possibly exacerbated by the COVID pandemic.**]
+.center[**Retention and progression issues for some, possibly exacerbated by the COVID pandemic.**]
 ---
 class: middle
 
@@ -89,7 +89,7 @@ class: middle
 --
 
 .green[**Co-creation pedagogy**]
-  - Including student in the design of the curriculum.
+  - Including students in the design of the curriculum.
   - Student-centered pedagogic approach.
 
 
@@ -117,8 +117,8 @@ class: middle
 
 # Linear Algebra Course
 
-- .green[Called for volunteers in semester 1 to work in January/Fberuary 2023 (between the 2 semesters) in small groups to:]
-  - identified difficult linear algebra topics;
+- .green[Called for volunteers in semester 1 to work in January/February 2023 (between the 2 semesters) in small groups to:]
+  - identify difficult linear algebra topics;
   - create tutorial style questions and problems on these topics;
   - code them in NUMBAS.
   
@@ -145,7 +145,7 @@ We met weekly to monitor progress and ran a focused interview on 15 March.
 
 Interview conversation is analysed using Interpretative Phenomenological Analysis (IPA):
 
-**extracting themes and subthemes emerging from the interview which characterize the participant's experience**.
+**extracting themes and subthemes emerging from the interview which characterise the participant's experience**.
 ]
 
 .pull-right[
